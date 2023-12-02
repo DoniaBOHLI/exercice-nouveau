@@ -1,0 +1,93 @@
+.patients{
+    background-color:#00CCB1 ;
+    width: 15%;
+color: white;
+padding: 1%;
+border-radius: 8px;
+height: 300px;
+
+}
+.médecins{
+    background-color: #508FE2;
+    width: 15%;
+    padding: 1%;
+    border-radius:  8px;
+    height: 300px ;
+    
+color: white;}
+
+.clinique{
+    background-color: #0c121a;
+    width: 15%;
+    padding: 1%;
+border-radius: 8px;
+height: 300px ;
+color: white;}
+
+
+.container{ display: flex;
+justify-content: space-around ;}
+
+.liste{
+    margin-top: 15%;
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+
+.img {width: 15%;}
+
+.text H1{
+    display: flex;
+    justify-content: center;
+    margin: 20%;
+    color: #00CCB1;
+}
+
+.text H2{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ flex-wrap: wrap;
+ margin: 20%;
+}
+
+
+.text H3{
+    display: flex;
+    vertical-align: inherit ;
+    color: aqua;
+}
+.h4{ 
+    text-align: center ; 
+
+}
+.brands-logo{ 
+    display: flex;
+    justify-content: flex-end;
+    padding: 5px;
+    text-decoration: none;
+    color: #508FE2;
+
+}
+
+.ima{
+    justify-content:center;
+    flex-wrap: wrap;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
